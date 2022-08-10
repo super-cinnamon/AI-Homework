@@ -1,1 +1,1 @@
-# SIC-Homeworks
+# AI-Homeworks
